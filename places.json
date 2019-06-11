@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Bali Island",
+    "place": "Indonesia",
+    "rating": 5,
+    "rating_count": 1052,
+    "days": 7,
+    "price": "$1500",
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCM2Riz7JVOqxy76aCraP8HshZCVjwSzIWiHbXILuHVKR57EH"
+  },
+  {
+    "title": "Yosemite",
+    "place": "California",
+    "rating": 4.5,
+    "rating_count": 450,
+    "days": 3,
+    "price": "$990",
+    "url":"https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA1My8yODIvb3JpZ2luYWwvd2F0ZXJmYWxscy0yLXVwcGVyeW9zZW1pdGVmYWxsLmpwZw=="
+  },
+  {
+    "title": "South Island",
+    "place": "New Zealand",
+    "rating": 4.5,
+    "rating_count": 536,
+    "days": 4,
+    "price": "$800",
+    "url":"https://destinationsmagazine.com/wp-content/uploads/2017/12/SouthIsland-Elephant-Rocks-7-RickyKresslein-Lightened.jpg"
+  }
+]
